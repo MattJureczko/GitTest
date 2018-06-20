@@ -10,6 +10,7 @@ public class OgloszenieSamochodowe extends Ogloszenie {
 
 
     public OgloszenieSamochodowe() {
+        System.out.println("obiekt utworzony!");
 
     }
 
